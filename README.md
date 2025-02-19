@@ -61,6 +61,6 @@ The data used in this project is obtained directly from Google Trends using the 
 6. **Report Generation:** Document the findings and insights in a Jupyter Notebook.
 
 ## Software Reuired
-1. **Jupyter Nitebbok.
-2. **Google Colab.
+1. Jupyter Nitebbok.
+2. Google Colab.
 3. Pycharm Community.
